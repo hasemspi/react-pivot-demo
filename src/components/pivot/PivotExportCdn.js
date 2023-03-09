@@ -43,6 +43,9 @@ class PivotExportCdn extends Component {
         fieldList,
         mark,
       });
+       layout: {
+          footer:true,
+       }
     });
   }
 
